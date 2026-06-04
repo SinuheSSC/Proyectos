@@ -1,0 +1,64 @@
+stages:
+  - configure
+  - testing
+  - deploy
+
+image: alejandroamaro/laravel_icpw2024
+
+services:
+  - nginx:stable-alpine
+  - postgres:15.1-alpine3.16
+
+variables:
+  POSTGRES_DB: example_base_de_datos
+  POSTGRES_USER: usuario_de_ejempl0
+  POSTGRES_PASSWORD: contraseña_de_ejempl0
+
+configure-job:
+  stage: configure
+  script:
+    - cp .env.example .env
+    - echo DB_CONNECTION=pgsql >> .env
+    - echo DB_HOST=postgres >> .env
+    - echo DB_PORT=5432 >> .env
+    - echo DB_DATABASE=example_base_de_datos >> .env
+    - echo DB_USERNAME=usuario_de_ejempl0 >> .env
+    - echo DB_PASSWORD=contraseña_de_ejempl0 >> .env
+    - cat .env
+    - rm .env.testing
+    - cp .env .env.testing
+    - composer install
+    - npm install
+    - npm run build
+    - php artisan key:generate
+    - php artisan migrate --seed
+    - php artisan storage:link
+    - php artisan cache:clear
+    - php artisan key:generate --env=testing
+    - php artisan test --filter=UserApiTest
+
+test-job:
+  stage: testing
+  script:
+    #- php artisan test
+    - echo "Testeado"
+
+deploy-job 1/2:
+  stage: deploy
+  only:
+    - main
+  #environment: production
+  before_script:
+    - echo "Init Deploy..."
+  script:
+    - echo "End Deploy"
+  #tags:
+  #  - Profe
+
+deploy-job 2/2:
+  stage: deploy
+  only:
+    - main
+  environment: production
+  script:
+    - echo "Finalizado"

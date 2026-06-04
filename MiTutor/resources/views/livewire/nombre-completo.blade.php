@@ -1,0 +1,1 @@
+<span>{{ $nombre_completo }}</span>
