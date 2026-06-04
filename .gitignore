@@ -1,0 +1,19 @@
+# Modelos pesados de IA y pesos de redes neuronales
+*.gguf
+*.h5
+*.keras
+*.pth
+*.pkl
+
+# Base de datos vectorial e índices (Chroma, etc.)
+Proyecto4_IA_SSC/vector_db/
+*.jsonld
+*.rdf
+*.ttl
+
+# Caché de Python y entornos virtuales
+__pycache__/
+*.pyc
+.env
+.venv/
+env/

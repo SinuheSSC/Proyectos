@@ -1,0 +1,327 @@
+{
+  "actividad": "AC-2: Nube de palabras y estadísticas de un discurso",
+  "total_textos": 2,
+  "analisis": [
+    {
+      "titulo": "Discurso Político (AMLO)",
+      "oraciones": 49,
+      "palabras_totales": 467,
+      "vocabulario_unico": 250,
+      "riqueza_lexica_global": 0.7508,
+      "riqueza_por_seccion": [
+        0.8313,
+        0.8795,
+        0.9277,
+        0.8434
+      ],
+      "promedio_palabras_oracion": 9.53,
+      "top_unigramas": [
+        [
+          "méxico",
+          10
+        ],
+        [
+          "robaron",
+          8
+        ],
+        [
+          "jóvenes",
+          5
+        ],
+        [
+          "nadie",
+          4
+        ],
+        [
+          "pueblo",
+          4
+        ],
+        [
+          "futuro",
+          4
+        ],
+        [
+          "universidades",
+          4
+        ],
+        [
+          "vida",
+          3
+        ],
+        [
+          "pública",
+          3
+        ],
+        [
+          "cuarta",
+          3
+        ]
+      ],
+      "top_bigramas": [
+        [
+          [
+            "cuarta",
+            "transformación"
+          ],
+          3
+        ],
+        [
+          [
+            "jóvenes",
+            "construyendo"
+          ],
+          2
+        ],
+        [
+          [
+            "construyendo",
+            "futuro"
+          ],
+          2
+        ],
+        [
+          [
+            "funcionarios",
+            "públicos"
+          ],
+          2
+        ],
+        [
+          [
+            "corrupción",
+            "cero"
+          ],
+          2
+        ],
+        [
+          [
+            "amigas",
+            "amigos"
+          ],
+          1
+        ],
+        [
+          [
+            "amigos",
+            "méxico"
+          ],
+          1
+        ]
+      ],
+      "top_trigramas": [
+        [
+          [
+            "jóvenes",
+            "construyendo",
+            "futuro"
+          ],
+          2
+        ],
+        [
+          [
+            "amigas",
+            "amigos",
+            "méxico"
+          ],
+          1
+        ],
+        [
+          [
+            "amigos",
+            "méxico",
+            "hoy"
+          ],
+          1
+        ],
+        [
+          [
+            "méxico",
+            "hoy",
+            "día"
+          ],
+          1
+        ],
+        [
+          [
+            "hoy",
+            "día",
+            "histórico"
+          ],
+          1
+        ]
+      ],
+      "entidades": {
+        "personas": [],
+        "lugares": [],
+        "organizaciones": [
+          "Cuarta Transformación",
+          "Futuro",
+          "Sistema Nacional de Investigadores",
+          "Tren Maya",
+          "Refinería de Dos",
+          "Corredor Interoceánico del Istmo",
+          "Fiscalía General de",
+          "República",
+          "Universidades Benito Juárez",
+          "Instituto Mexicano del Seguro"
+        ]
+      }
+    },
+    {
+      "titulo": "Artículo Científico (PLN)",
+      "oraciones": 22,
+      "palabras_totales": 352,
+      "vocabulario_unico": 226,
+      "riqueza_lexica_global": 0.8129,
+      "riqueza_por_seccion": [
+        0.8696,
+        0.8986,
+        0.9565,
+        0.8841
+      ],
+      "promedio_palabras_oracion": 16.0,
+      "top_unigramas": [
+        [
+          "modelos",
+          12
+        ],
+        [
+          "pln",
+          7
+        ],
+        [
+          "lenguaje",
+          5
+        ],
+        [
+          "sistemas",
+          5
+        ],
+        [
+          "texto",
+          5
+        ],
+        [
+          "aprendizaje",
+          4
+        ],
+        [
+          "natural",
+          2
+        ],
+        [
+          "permitir",
+          2
+        ],
+        [
+          "humano",
+          2
+        ],
+        [
+          "llegada",
+          2
+        ]
+      ],
+      "top_bigramas": [
+        [
+          [
+            "lenguaje",
+            "natural"
+          ],
+          2
+        ],
+        [
+          [
+            "lenguaje",
+            "humano"
+          ],
+          2
+        ],
+        [
+          [
+            "textos",
+            "análisis"
+          ],
+          2
+        ],
+        [
+          [
+            "análisis",
+            "sentimientos"
+          ],
+          2
+        ],
+        [
+          [
+            "modelos",
+            "aprenden"
+          ],
+          2
+        ],
+        [
+          [
+            "aprendizaje",
+            "profundo"
+          ],
+          2
+        ],
+        [
+          [
+            "procesamiento",
+            "lenguaje"
+          ],
+          1
+        ]
+      ],
+      "top_trigramas": [
+        [
+          [
+            "textos",
+            "análisis",
+            "sentimientos"
+          ],
+          2
+        ],
+        [
+          [
+            "procesamiento",
+            "lenguaje",
+            "natural"
+          ],
+          1
+        ],
+        [
+          [
+            "lenguaje",
+            "natural",
+            "pln"
+          ],
+          1
+        ],
+        [
+          [
+            "natural",
+            "pln",
+            "rama"
+          ],
+          1
+        ],
+        [
+          [
+            "pln",
+            "rama",
+            "inteligencia"
+          ],
+          1
+        ]
+      ],
+      "entidades": {
+        "personas": [],
+        "lugares": [
+          "PLN"
+        ],
+        "organizaciones": []
+      }
+    }
+  ]
+}

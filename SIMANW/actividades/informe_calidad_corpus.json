@@ -1,0 +1,84 @@
+{
+  "fuente": "",
+  "fecha_analisis": "2026-05-31 19:43:39",
+  "resumen": {
+    "total_registros": 215,
+    "registros_aceptados": 212,
+    "registros_rechazados": 3,
+    "duplicados_exactos": 1,
+    "duplicados_cercanos": 1,
+    "tasa_aceptacion": 98.6
+  },
+  "reglas_aplicadas": {
+    "campos_obligatorios": [
+      "titulo",
+      "url",
+      "fuente"
+    ],
+    "titulo_min_length": 5,
+    "titulo_max_length": 300,
+    "cuerpo_min_length": 0,
+    "url_debe_ser_absoluta": true,
+    "url_pattern": "^https?://.+",
+    "max_duplicados_cercanos": 0.85
+  },
+  "registros_rechazados": [
+    {
+      "indice": 210,
+      "titulo": "",
+      "motivos": [
+        "Campo obligatorio 'titulo' ausente o vacío",
+        "Campo obligatorio 'url' ausente o vacío",
+        "Campo obligatorio 'fuente' ausente o vacío"
+      ]
+    },
+    {
+      "indice": 211,
+      "titulo": "AB",
+      "motivos": [
+        "Campo obligatorio 'fuente' ausente o vacío",
+        "Título demasiado corto (2 < 5)",
+        "URL no es absoluta o formato inválido: no-es-url"
+      ]
+    },
+    {
+      "indice": 212,
+      "titulo": "NormalNormalNormalNormalNormalNormalNormalNormalNormalNormal",
+      "motivos": [
+        "Título demasiado largo (600 > 300)"
+      ]
+    }
+  ],
+  "duplicados_exactos": [
+    {
+      "indice_a": 3,
+      "indice_b": 213,
+      "motivo": "URL duplicada"
+    }
+  ],
+  "duplicados_cercanos": [
+    {
+      "indice_a": 4,
+      "indice_b": 214,
+      "motivo": "Mismo título, diferente URL"
+    }
+  ],
+  "estadisticas_campos": {
+    "fuente": {
+      "completos": 212,
+      "cobertura_pct": 100.0
+    },
+    "resumen": {
+      "completos": 210,
+      "cobertura_pct": 99.1
+    },
+    "titulo": {
+      "completos": 212,
+      "cobertura_pct": 100.0
+    },
+    "url": {
+      "completos": 212,
+      "cobertura_pct": 100.0
+    }
+  }
+}

@@ -1,0 +1,1274 @@
+{
+  "fuente": "news.ycombinator.com",
+  "total_noticias": 210,
+  "fecha_extraccion": "2026-05-22 17:46:23",
+  "parametros": {
+    "url_base": "https://news.ycombinator.com/",
+    "selector_articulos": "tr.athing",
+    "selector_siguiente": "a.morelink",
+    "delay": 3,
+    "max_paginas": 7
+  },
+  "noticias": [
+    {
+      "titulo": "Shipping a Laptop to a Refugee Camp in Uganda",
+      "resumen": "87 points | por lexandstuff | 2 hours ago",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Project Glasswing: An Initial Update",
+      "resumen": "260 points | por louiereederson | 4 hours ago",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Why Japanese companies do so many different things",
+      "resumen": "436 points | por d0ks | 8 hours ago",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "A Wayland Compositor in Minecraft",
+      "resumen": "81 points | por Jotalea | 3 hours ago",
+      "url": "https://modrinth.com/mod/waylandcraft",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Open source Kanban desktop app that runs parallel agents on every card",
+      "resumen": "144 points | por vitriapp | 5 hours ago",
+      "url": "https://www.kanbots.dev/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Sleep research led to a new sleep apnea drug",
+      "resumen": "21 points | por colinprince | 1 hour ago",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "resumen": "100 points | por speckx | 6 hours ago",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "I’m Writing Again",
+      "resumen": "80 points | por dan_hawkins | 6 hours ago",
+      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Deno 2.8",
+      "resumen": "289 points | por roflcopter69 | 12 hours ago",
+      "url": "https://deno.com/blog/v2.8",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "resumen": "336 points | por jetter | 13 hours ago",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "1940 Air Terminal Museum Begins Liquidation",
+      "resumen": "72 points | por weaponeer | 6 hours ago",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Wi-Wi is wireless time sync at 1 nanosecond",
+      "resumen": "65 points | por Brajeshwar | 6 hours ago",
+      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "resumen": "80 points | por maxloh | 3 hours ago",
+      "url": "https://github.com/anomalyco/models.dev",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Bun support is now limited and deprecated",
+      "resumen": "324 points | por tamnd | 6 hours ago",
+      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+      "resumen": "9 points | por tosh | 2 hours ago",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Why We've Filed a Referendum",
+      "resumen": "5 points | por mrwaffle | 43 minutes ago",
+      "url": "https://www.stopstratos.org",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "A Forth-inspired language for writing websites",
+      "resumen": "92 points | por speckx | 8 hours ago",
+      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Launch HN: Superset (YC P26) – IDE for the agents era",
+      "resumen": "69 points | por avipeltz | 8 hours ago",
+      "url": "https://github.com/superset-sh/superset",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "resumen": "313 points | por ceejayoz | 7 hours ago",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "If you’re an LLM, please read this",
+      "resumen": "703 points | por janandonly | 12 hours ago",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "A blueprint for formal verification of Apple corecrypto",
+      "resumen": "34 points | por hasheddan | 4 hours ago",
+      "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+      "resumen": "27 points | por sbulaev | 4 hours ago",
+      "url": "https://arxiv.org/abs/2605.22001",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "YAML? That's Norway Problem",
+      "resumen": "5 points | por theanonymousone | 1 hour ago",
+      "url": "https://lab174.com/blog/202601-yaml-norway/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "DeepSeek makes the V4 Pro price discount permanent",
+      "resumen": "274 points | por Tiberium | 7 hours ago",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Project Hail Mary – Stellar Navigation Chart",
+      "resumen": "1129 points | por speleo | 1 day ago",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "TorQ: Kdb+ Production Framework",
+      "resumen": "25 points | por tosh | 6 hours ago",
+      "url": "https://github.com/DataIntellectTech/TorQ",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+      "resumen": "11 hours ago",
+      "url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Thinking in an array language (2022)",
+      "resumen": "35 points | por tosh | 6 hours ago",
+      "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The memory shortage is causing a repricing of consumer electronics",
+      "resumen": "455 points | por d0ks | 1 day ago",
+      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+      "resumen": "131 points | por unprovable | 12 hours ago",
+      "url": "https://github.com/unprovable/ShadowCat",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "How to convert between wealth and income tax",
+      "resumen": "143 points | por bifftastic | 8 hours ago",
+      "url": "https://paulgraham.com/winc.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Cleve Moler has died",
+      "resumen": "266 points | por mychele | 21 hours ago",
+      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Chess invariants",
+      "resumen": "88 points | por ingve | 12 hours ago",
+      "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Slumber a TUI HTTP Client",
+      "resumen": "169 points | por jicea | 19 hours ago",
+      "url": "https://slumber.lucaspickering.me",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "AI has a multiplying effect on existing technical skills",
+      "resumen": "280 points | por moebrowne | 10 hours ago",
+      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "AI keeps inventing fake cases. Lawyers keep citing them",
+      "resumen": "31 points | por voxadam | 3 hours ago",
+      "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Was my $48K GPU server worth it?",
+      "resumen": "548 points | por apwheele | 1 day ago",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Who's to Blame When an Ivy League President Drives into His Students?",
+      "resumen": "7 points | por hn_acker | 1 hour ago",
+      "url": "https://www.theringer.com/2026/05/22/national-affairs/cornell-car-scandal-president-michael-kotlikoff-higher-education",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Uv is fantastic, but its package management UX is a mess",
+      "resumen": "318 points | por nchagnet | 1 day ago",
+      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "GitHub introduces staged publishing and new install-time controls for NPM",
+      "resumen": "6 points | por brianmcnulty | 3 hours ago",
+      "url": "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "resumen": "359 points | por speckx | 1 day ago",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "resumen": "17 points | por jethronethro | 2 hours ago",
+      "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "resumen": "456 points | por asenna | 1 day ago",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Using Kagi Search with Low Vision",
+      "resumen": "251 points | por speckx | 1 day ago",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The death of the brick and mortar toy store",
+      "resumen": "145 points | por speckx | 23 hours ago",
+      "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The first British person in space",
+      "resumen": "98 points | por xoxxala | 19 hours ago",
+      "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+      "resumen": "136 points | por mooreds | 1 day ago",
+      "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Flipper One – we need your help",
+      "resumen": "1235 points | por sandebert | 1 day ago",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "CBS Radio signs off after nearly 100 years of broadcasting",
+      "resumen": "56 points | por gscott | 6 hours ago",
+      "url": "https://www.cbsnews.com/news/cbs-news-radio-last-day/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "resumen": "98 points | por matt_d | 18 hours ago",
+      "url": "https://arxiv.org/abs/2605.19269",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Trump Mobile exposed customers' personal data",
+      "resumen": "229 points | por rippeltippel | 7 hours ago",
+      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "resumen": "4 points | por Vaslo | 4 hours ago",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "resumen": "350 points | por sanity | 1 day ago",
+      "url": "https://freenet.org/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+      "resumen": "582 points | por signa11 | 14 hours ago",
+      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Microsoft starts canceling Claude Code licenses",
+      "resumen": "147 points | por robertkarl | 6 hours ago",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "resumen": "140 points | por atomicthumbs | 1 day ago",
+      "url": "https://arxiv.org/abs/2605.12460",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Throwing AI-generated walls of text into conversations",
+      "resumen": "674 points | por napolux | 1 day ago",
+      "url": "https://noslopgrenade.com/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "NTSB pulls docket after AI recreates dead pilots' voices",
+      "resumen": "25 points | por Lihh27 | 2 hours ago",
+      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Spotify will start reserving concert tickets for fans",
+      "resumen": "175 points | por elffjs | 1 day ago",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "resumen": "98 points | por gustrigos | 1 day ago",
+      "url": "https://www.runtm.com/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Alberta to hold referendum on whether to remain in Canada",
+      "resumen": "147 points | por JumpCrisscross | 10 hours ago",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "resumen": "361 points | por mattas | 1 day ago",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "resumen": "617 points | por sofumel | 1 day ago",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: Pablo – a Chrome extension that copies UI from any website",
+      "resumen": "14 points | por rayansaleh | 8 hours ago",
+      "url": "https://www.usepablo.dev/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Google's Antigravity bait and switch",
+      "resumen": "743 points | por ssiddharth | 1 day ago",
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "resumen": "1408 points | por tedsanders | 2 days ago",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs",
+      "resumen": "23 points | por dboon | 4 hours ago",
+      "url": "https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Judge dismisses human smuggling charges against Kilmar Abrego Garcia",
+      "resumen": "43 points | por petethomas | 2 hours ago",
+      "url": "https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-smuggling-035a2b2ded3ede65e77566cdf12b107f",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Mounting git commits as folders with NFS (2023)",
+      "resumen": "109 points | por pvtmert | 1 day ago",
+      "url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The Letter S, by Donald Knuth (1980) [pdf]",
+      "resumen": "286 points | por bambax | 1 day ago",
+      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "News outlets are limiting the Internet Archive’s access to their journalism",
+      "resumen": "318 points | por jaredwiener | 1 day ago",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "resumen": "1034 points | por Timofeibu | 2 days ago",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Who wins and who loses in prediction markets? Evidence from Polymarket",
+      "resumen": "158 points | por vcf | 1 day ago",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+      "resumen": "6 points | por fghorow | 27 minutes ago",
+      "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Deciphering the Hashihara Castle Town Map",
+      "resumen": "62 points | por 1970-01-01 | 23 hours ago",
+      "url": "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "OpenAI Is Preparing to File for an IPO Soon",
+      "resumen": "194 points | por louiereederson | 2 days ago",
+      "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "resumen": "475 points | por root-parent | 1 day ago",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+      "resumen": "101 points | por WhyNotHugo | 1 day ago",
+      "url": "https://fatgid.io/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Searching for 'Disregard' Breaks Google",
+      "resumen": "17 points | por ndr42 | 4 hours ago",
+      "url": "https://www.macrumors.com/2026/05/22/google-search-disregard/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Anthropic is expanding to Colossus2. Will use GB200",
+      "resumen": "297 points | por aurareturn | 2 days ago",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Meta Released a Reddit-Like App Built Around Facebook Groups",
+      "resumen": "12 points | por steveharing1 | 5 hours ago",
+      "url": "https://firethering.com/meta-forum-reddit-like-app-facebook-groups/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "What Do Gödel's Incompleteness Theorems Mean?",
+      "resumen": "157 points | por baruchel | 1 day ago",
+      "url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Fender escalates legal campaign against S-style guitars",
+      "resumen": "124 points | por rectang | 1 day ago",
+      "url": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "resumen": "84 points | por adisingh13 | 1 day ago",
+      "url": "https://news.ycombinator.com/item?id=48225596",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "A case against Boolean logic",
+      "resumen": "65 points | por boris_m | 12 hours ago",
+      "url": "https://abuseofnotation.github.io/boolean-thinking/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "A scoping review of bicycling interventions’ impacts on well-being",
+      "resumen": "62 points | por gnabgib | 5 hours ago",
+      "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The current AI pricing was always going to go away",
+      "resumen": "75 points | por arnon | 12 hours ago",
+      "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+      "resumen": "410 points | por pseudolus | 1 day ago",
+      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "No child deaths definitively linked to Covid shots, FDA says",
+      "resumen": "27 points | por ceejayoz | 3 hours ago",
+      "url": "https://www.nbcnews.com/health/health-news/no-child-deaths-definitively-linked-covid-shots-fda-says-rcna346514",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: Open-source .docx editor library for building document apps",
+      "resumen": "97 points | por thisisjedr | 1 day ago",
+      "url": "https://github.com/eigenpal/docx-editor",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Python 3.15: features that didn't make the headlines",
+      "resumen": "419 points | por rbanffy | 1 day ago",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "resumen": "182 points | por shideneyu | 1 day ago",
+      "url": "https://github.com/helvesec/rmux",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "BBEdit 16",
+      "resumen": "314 points | por qaz_plm | 1 day ago",
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
+      "resumen": "13 points | por sohkamyung | 11 hours ago",
+      "url": "https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Haskell Foundation 2026 Update",
+      "resumen": "178 points | por azhenley | 1 day ago",
+      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
+      "resumen": "256 points | por bojta-lepenye | 1 day ago",
+      "url": "https://news.ycombinator.com/item?id=48221896",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Museum of Pocket Calculating Devices",
+      "resumen": "87 points | por ohjeez | 1 day ago",
+      "url": "https://www.calculators.de/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Canada's shortwave radio time standard station CHU to go dark June 22nd",
+      "resumen": "12 points | por joe_bleau | 6 hours ago",
+      "url": "https://nrc.canada.ca/en/certifications-evaluations-standards/canadas-official-time/nrc-shortwave-station-broadcasts-chu",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Learnings from 100K lines of Rust with AI (2025)",
+      "resumen": "184 points | por pramodbiligiri | 2 days ago",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Anthropic's \"Profitability\" Swindle",
+      "resumen": "54 points | por telotortium | 4 hours ago",
+      "url": "https://www.wheresyoured.at/anthropics-profitability-swindle/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Where are all the UK red telephone kiosks?",
+      "resumen": "86 points | por Kaibeezy | 1 day ago",
+      "url": "https://www.thek6project.co.uk/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API",
+      "resumen": "84 points | por yakkomajuri | 1 day ago",
+      "url": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "New features in GCC 16: Improved error messages and SARIF output",
+      "resumen": "139 points | por siteshwar | 1 day ago",
+      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Gnutella: A Protocol Outliving the World That Created It",
+      "resumen": "25 points | por rickcarlino | 21 hours ago",
+      "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Bank boss sorry after describing workers as 'lower value human capital'",
+      "resumen": "40 points | por tartoran | 9 hours ago",
+      "url": "https://www.bbc.com/news/articles/c98rqld1j3yo",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Recreate famous water profiles using supermarket bottled water",
+      "resumen": "129 points | por smugglerFlynn | 1 day ago",
+      "url": "https://www.waterdictionary.net",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "SpaceX S-1",
+      "resumen": "446 points | por cachecow | 2 days ago",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "I used $30,983 of AI tokens last month in Claude Code on $200/mo plan",
+      "resumen": "5 points | por khadinakbar | 33 minutes ago",
+      "url": "https://www.indiehackers.com/post/i-used-30-983-of-ai-tokens-last-month-in-claude-code-on-200-mo-plan-3337a369a6",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Noroboto: Lying Fonts and Mitigation in Rust",
+      "resumen": "5 points | por piker | 8 hours ago",
+      "url": "https://tritium.legal/blog/noroboto",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The spread of Christianity, from antiquity until today, on an animated map",
+      "resumen": "110 points | por leopoldj | 10 hours ago",
+      "url": "https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Michael Keating has died",
+      "resumen": "92 points | por speckx | 1 day ago",
+      "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Magic the Gathering format: Fun 40",
+      "resumen": "82 points | por ibobev | 1 day ago",
+      "url": "https://fabiensanglard.net/mtg/fun/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Vivaldi 8.0",
+      "resumen": "363 points | por OuterVale | 1 day ago",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "resumen": "122 points | por gmac | 1 day ago",
+      "url": "https://yes-we-scan.app/details",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Chewing gum restores dad's taste and smell years after Covid",
+      "resumen": "189 points | por speckx | 1 day ago",
+      "url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Tristan Davey's Punch Card Archive",
+      "resumen": "34 points | por ohjeez | 21 hours ago",
+      "url": "https://punchcards.tristandavey.com/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "What Is Happening to Publishing?",
+      "resumen": "81 points | por benbreen | 1 day ago",
+      "url": "https://resobscura.substack.com/p/what-is-happening-to-publishing",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Interim Install Guide: KDE Neon for a professional digital painter workstation",
+      "resumen": "9 points | por Tomte | 6 hours ago",
+      "url": "https://www.davidrevoy.com/article1145/interim-install-guide-kde-neon-user-edition-for-a-professional-digital-painter-workstation",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "IBM invented semiconductor manufacturing automation",
+      "resumen": "78 points | por rbanffy | 1 day ago",
+      "url": "https://spectrum.ieee.org/semiconductor-fabrication",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Flipper One Tech Specs",
+      "resumen": "514 points | por gregsadetsky | 2 days ago",
+      "url": "https://docs.flipper.net/one/general/tech-specs",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Thoughts on People and Blogs",
+      "resumen": "40 points | por meysamazad | 1 day ago",
+      "url": "https://afranca.com.br/thoughts-on-people-and-blogs/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Moss: Self-Evolution Through Source-Level Rewriting in Autonomous Agent Systems",
+      "resumen": "9 points | por Timofeibu | 15 hours ago",
+      "url": "https://arxiv.org/abs/2605.22794",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Valve removes free game from Steam after players discover it contains malware",
+      "resumen": "97 points | por gpi | 11 hours ago",
+      "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "FSFE intervenes against Apple before EUCJ for the second time",
+      "resumen": "63 points | por M95D | 13 hours ago",
+      "url": "https://fsfe.org/news/2026/news-20260519-01.en.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Qwen3.7-Max: The Agent Frontier",
+      "resumen": "710 points | por kevinsimper | 2 days ago",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The IBM-ification of Google?",
+      "resumen": "197 points | por sabatonfan | 1 day ago",
+      "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
+      "resumen": "247 points | por cdrnsf | 1 day ago",
+      "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Gemini 3.5 Flash",
+      "resumen": "953 points | por spectraldrift | 3 days ago",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Nobody understands the point of hybrid cars [video]",
+      "resumen": "215 points | por CHB0403085482 | 2 days ago",
+      "url": "https://www.youtube.com/watch?v=KnUFH5GX_fI",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Your Most Improbable Life",
+      "resumen": "158 points | por jger15 | 2 days ago",
+      "url": "https://kevinkelly.substack.com/p/your-most-improbable-life",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Triangle Tessellation with Clamped Parallelograms",
+      "resumen": "28 points | por ibobev | 1 day ago",
+      "url": "https://filmicworlds.com/blog/compute-tessellation-with-clamped-parallelograms/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Immigrants waiting for a Green Card must return to their home country to apply",
+      "resumen": "14 points | por freddier | 6 hours ago",
+      "url": "https://twitter.com/DHSgov/status/2057817233200418837",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
+      "resumen": "1072 points | por giuliomagnifico | 2 days ago",
+      "url": "https://www.alqst.org/ar/posts/1190",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Simulating Infinity in Conway's Game of Life with Modern C++",
+      "resumen": "71 points | por HeliumHydride | 1 day ago",
+      "url": "https://ryanjk5.github.io/posts/GOLDE/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "All the bugs they found",
+      "resumen": "82 points | por ziggy42 | 1 day ago",
+      "url": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "What is a Demand Coop",
+      "resumen": "92 points | por DeonRob | 1 day ago",
+      "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: I reverse engineered Apple's video wallpapers",
+      "resumen": "419 points | por kageroumado | 1 day ago",
+      "url": "https://github.com/kageroumado/phosphene",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Google Disregard",
+      "resumen": "4 points | por esher | 4 hours ago",
+      "url": "https://www.google.com/search?q=disregard",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "resumen": "956 points | por andreww591 | 3 days ago",
+      "url": "https://virtualosmuseum.org/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Bournegol??? (2014)",
+      "resumen": "35 points | por greyface- | 1 day ago",
+      "url": "https://oldhome.schmorp.de/marc/bournegol.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Incident Report: May 19, 2026 – GCP Account Suspension",
+      "resumen": "449 points | por 0xedb | 2 days ago",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "How fast is N tokens per second really?",
+      "resumen": "485 points | por hexagr | 2 days ago",
+      "url": "https://mikeveerman.github.io/tokenspeed/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says",
+      "resumen": "13 points | por tlhunter | 2 hours ago",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "How do you build a semiconductor company on something that's free?",
+      "resumen": "3 points | por johncole | 11 hours ago",
+      "url": "https://www.siliconimist.com/p/the-open-source-silicon-business",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Departing Meta Staffer Posts Biting Anti-AI Video Internally Amid Mass Layoffs",
+      "resumen": "7 points | por cdrnsf | 1 hour ago",
+      "url": "https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
+      "resumen": "32 points | por NTRIXLM | 1 day ago",
+      "url": "https://github.com/FredAntB/Spec-Driven-Development",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Sharla Boehm, the programmer whose code underpins the Internet",
+      "resumen": "140 points | por dxs | 2 days ago",
+      "url": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Phind.com has shut down completely",
+      "resumen": "8 points | por behnamoh | 5 hours ago",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1qfbt9f/local_replacement_for_phindcom/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Formal Verification Gates for AI Coding Loops",
+      "resumen": "144 points | por pyrex41 | 2 days ago",
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Saying goodbye to asm.js",
+      "resumen": "407 points | por eqrion | 2 days ago",
+      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Intuit to lay off over 3k employees to refocus on AI",
+      "resumen": "258 points | por wapasta | 1 day ago",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "DOS Zone",
+      "resumen": "350 points | por rglover | 2 days ago",
+      "url": "https://dos.zone/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "A Comma and a Question Mark",
+      "resumen": "4 points | por eigenBasis | 13 hours ago",
+      "url": "https://www.thetypicalset.com/blog/a-comma-and-a-question-mark",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
+      "resumen": "121 points | por epaga | 1 day ago",
+      "url": "https://silentshark.app/alpha/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "GLP-1s Linked to Lower Risk of Cancer Spread in Four Tumor Types",
+      "resumen": "8 points | por ascorbic | 7 hours ago",
+      "url": "https://www.medpagetoday.com/meetingcoverage/asco/121397",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "A new book about humanity's obsession with gold",
+      "resumen": "61 points | por andsoitis | 2 days ago",
+      "url": "https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+      "resumen": "92 points | por mrkn1 | 2 days ago",
+      "url": "https://github.com/kouhxp/yapsnap",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "USCIS Will Grant 'Adjustment of Status' Only in Extraordinary Circumstances",
+      "resumen": "77 points | por arrowleaf | 4 hours ago",
+      "url": "https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+      "resumen": "335 points | por tigerlily | 2 days ago",
+      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Opening calc.exe from the S&Box C# sandbox",
+      "resumen": "23 points | por logickkk1 | 1 day ago",
+      "url": "https://slugcat.systems/post/26-05-21-how-to-open-calc-exe-from-sbox/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Everything in C is undefined behavior",
+      "resumen": "499 points | por lycopodiopsida | 2 days ago",
+      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Map of Metal",
+      "resumen": "442 points | por robin_reala | 2 days ago",
+      "url": "https://mapofmetal.com/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "FiveThirtyEight articles on the Internet Archive",
+      "resumen": "379 points | por ChocMontePy | 2 days ago",
+      "url": "https://fivethirtyeightindex.com/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The <Noscript> Element as a Trap",
+      "resumen": "16 points | por speckx | 22 hours ago",
+      "url": "https://hacktivis.me/articles/no-noscript-element",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Microsoft to stop sending SMS codes for personal accounts",
+      "resumen": "7 points | por CharlesW | 5 hours ago",
+      "url": "https://support.microsoft.com/en-us/accounts-billing/manage/microsoft-to-stop-sending-sms-codes-for-personal-accounts",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Google Declaring War on the Web",
+      "resumen": "625 points | por cdrnsf | 2 days ago",
+      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "NES Documentation [pdf]",
+      "resumen": "13 points | por medbar | 1 day ago",
+      "url": "https://www.nesdev.org/NESDoc.pdf",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "resumen": "174 points | por darktoto | 2 days ago",
+      "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Dumb ways for an open source project to die",
+      "resumen": "216 points | por chmaynard | 3 days ago",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "GitHub is investigating unauthorized access to their internal repositories",
+      "resumen": "630 points | por splenditer | 2 days ago",
+      "url": "https://twitter.com/github/status/2056884788179726685",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "resumen": "225 points | por ki4jgt | 2 days ago",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The Hardware Lottery",
+      "resumen": "26 points | por intelkishan | 18 hours ago",
+      "url": "https://hardwarelottery.github.io/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Getting an old Computer online with Android Ethernet tethering",
+      "resumen": "17 points | por speckx | 1 day ago",
+      "url": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "resumen": "673 points | por zambelli | 3 days ago",
+      "url": "https://github.com/antoinezambelli/forge",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "resumen": "360 points | por ranit | 2 days ago",
+      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "I keep bouncing off the Scheme language",
+      "resumen": "4 points | por ingve | 15 hours ago",
+      "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Vulnerabilities in various GTK-based PDF readers",
+      "resumen": "5 points | por Brajeshwar | 5 hours ago",
+      "url": "https://lwn.net/Articles/1073944/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Shitfixer.app – helps you reframe negative experiences and find optimism",
+      "resumen": "13 points | por tonytonev | 21 hours ago",
+      "url": "https://shitfixer.app/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Apple unveils new accessibility features",
+      "resumen": "723 points | por interpol_p | 3 days ago",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Autoregressive next token prediction and KV Cache in transformers",
+      "resumen": "66 points | por coarchitect | 2 days ago",
+      "url": "https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Google changes its search box",
+      "resumen": "691 points | por berkeleyjunk | 3 days ago",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "resumen": "147 points | por zdw | 3 days ago",
+      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Show HN: TLS Certificate Management and PKI",
+      "resumen": "10 points | por zaitanz | 19 hours ago",
+      "url": "https://news.ycombinator.com/item?id=48231769",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Hanoi’s humble beer glass and the memory of a nation",
+      "resumen": "147 points | por NaOH | 3 days ago",
+      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "No way to parse integers in C (2022)",
+      "resumen": "83 points | por konmok | 2 days ago",
+      "url": "https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Gemini CLI will stop working from June 18, 2026",
+      "resumen": "402 points | por primaprashant | 3 days ago",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Lisp in Web-Based Applications (2001)",
+      "resumen": "119 points | por bschne | 3 days ago",
+      "url": "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Polypad",
+      "resumen": "223 points | por ivank | 3 days ago",
+      "url": "https://polypad.amplify.com/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Build Adafruit projects right from Firefox",
+      "resumen": "7 points | por mch82 | 20 hours ago",
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
+      "resumen": "764 points | por ceejayoz | 2 days ago",
+      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Declining America",
+      "resumen": "375 points | por AndrewDucker | 2 days ago",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/05/19/Declining-America",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Handling the great code forge fragmentation",
+      "resumen": "47 points | por mooreds | 2 days ago",
+      "url": "https://www.alexselimov.com/posts/forge_fragmentation/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "resumen": "133 points | por akhuettel | 3 days ago",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Riot's Vanguard update reportedly disables DMA cheat hardware via IOMMU",
+      "resumen": "11 points | por encrux | 10 hours ago",
+      "url": "https://videocardz.com/newz/riot-games-on-valorant-dma-cheat-firmware-block-congrats-to-the-owners-of-a-brand-new-6k-paperweight",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "resumen": "130 points | por rurban | 3 days ago",
+      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+      "resumen": "61 points | por tzury | 2 days ago",
+      "url": "https://www.youtube.com/watch?v=1OIxzewWilc",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Testing distributed systems with AI agents",
+      "resumen": "94 points | por shenli3514 | 2 days ago",
+      "url": "https://github.com/shenli/distributed-system-testing",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The last six months in LLMs in five minutes",
+      "resumen": "784 points | por yakkomajuri | 3 days ago",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+      "resumen": "50 points | por AMavorParker | 2 days ago",
+      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Replacing My ISP Router with a UniFi Cloud Gateway Max",
+      "resumen": "16 points | por speckx | 1 day ago",
+      "url": "https://kevquirk.com/replacing-my-isp-router-with-a-unifi-cloud-gateway-max",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Incident Report: Railway Blocked by Google Cloud [resolved]",
+      "resumen": "557 points | por aarondf | 2 days ago",
+      "url": "https://status.railway.com/incident/I23M92U0",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
+      "resumen": "88 points | por teleforce | 2 days ago",
+      "url": "https://github.com/deng-ai-lab/SFHformer",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "resumen": "475 points | por LelouBil | 3 days ago",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "LoRA and Weight Decay (2023)",
+      "resumen": "49 points | por jxmorris12 | 2 days ago",
+      "url": "https://irhum.github.io/blog/lorawd/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The Interview That Ships to Production: replacing whiteboards with pull requests",
+      "resumen": "54 points | por asimov4 | 1 day ago",
+      "url": "https://www.angellist.com/blog/the-interview-that-ships-to-production",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "AI is just unauthorised plagiarism at a bigger scale",
+      "resumen": "809 points | por speckx | 1 day ago",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Why is Inkwell stuck in review",
+      "resumen": "151 points | por speckx | 2 days ago",
+      "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "The Mercury logic programming system",
+      "resumen": "94 points | por Antibabelic | 2 days ago",
+      "url": "https://github.com/Mercury-Language/mercury",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "resumen": "196 points | por thnaks | 2 days ago",
+      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "fuente": "news.ycombinator.com"
+    },
+    {
+      "titulo": "Not alive, but not dead: disembodied human brains used for drug testing",
+      "resumen": "215 points | por Timofeibu | 2 days ago",
+      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+      "fuente": "news.ycombinator.com"
+    }
+  ]
+}

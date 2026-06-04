@@ -1,0 +1,141 @@
+{
+  "manifiesto_simanw": {
+    "proyecto": "SIMANW - Sistema Inteligente de Monitoreo y Análisis de Noticias Web",
+    "version": "SIMANW-20260531",
+    "fecha_ejecucion": "2026-05-31 19:48:26",
+    "duracion_total_seg": 0.2,
+    "sistema": {
+      "plataforma": "Windows-11-10.0.26100-SP0",
+      "python": "3.13.7",
+      "maquina": "DESKTOP-USM18LK"
+    },
+    "etapas": [
+      {
+        "etapa": "F1: Rastreo Web",
+        "descripcion": "Rastreo de Hacker News con paginación (AC-1). Verificación robots.txt, delay 3s, 7 páginas.",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [],
+        "archivos_salida": [],
+        "metadatos": {
+          "n_registros": 0,
+          "fuente": "news.ycombinator.com"
+        }
+      },
+      {
+        "etapa": "F2: NLP",
+        "descripcion": "Análisis estadístico de discursos con n-gramas, riqueza léxica por secciones y entidades (AC-2).",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\actividades\\ac2_analisis_discurso.py"
+        ],
+        "archivos_salida": [],
+        "metadatos": {
+          "n_registros": 3,
+          "textos": "discurso educativo, científico, político"
+        }
+      },
+      {
+        "etapa": "F3: Clasificación",
+        "descripcion": "Clasificador multimodelo con selección automática mediante validación cruzada (AC-3). Evaluación: Naive Bayes 0.50, SVM 0.43, Ensemble 0.35.",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\actividades\\ac3_selector_modelo.py"
+        ],
+        "archivos_salida": [],
+        "metadatos": {
+          "n_modelos": 5,
+          "mejor_modelo": "Naive Bayes",
+          "n_categorias": 4,
+          "exactitud": 0.5
+        }
+      },
+      {
+        "etapa": "F3: Análisis Hilos",
+        "descripcion": "Análisis de evolución de sentimiento, detección de subtemas y resumen automático de hilos (AC-4).",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\actividades\\ac4_analizador_hilo.py"
+        ],
+        "archivos_salida": [],
+        "metadatos": {
+          "n_hilos": 2,
+          "n_mensajes": 35
+        }
+      },
+      {
+        "etapa": "F3: Tendencias",
+        "descripcion": "Línea de tiempo y tendencias por tema. Agrupación semanal, picos y caídas por categoría (AC-9).",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\actividades\\ac9_tendencias_temporales.py"
+        ],
+        "archivos_salida": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\tendencias_temporales.csv",
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\tendencias_temporales.png"
+        ],
+        "metadatos": {
+          "n_periodos": 21,
+          "categorias": 4
+        }
+      },
+      {
+        "etapa": "F4: Búsqueda",
+        "descripcion": "Comparación modelo booleano vs. vectorial con precisión y recall. Modelo vectorial superior (AC-5). Sistema de alertas por consulta guardada (AC-10).",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\actividades\\ac5_comparador_modelos.py",
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\actividades\\ac10_sistema_alertas.py"
+        ],
+        "archivos_salida": [],
+        "metadatos": {
+          "n_consultas_eval": 5,
+          "precision_vectorial": 1.0,
+          "alertas_activas": 5
+        }
+      },
+      {
+        "etapa": "F5: Chatbot",
+        "descripcion": "Chatbot con memoria de contexto que recuerda conversación y personaliza respuestas (AC-6).",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\actividades\\ac6_chatbot_contextual.py"
+        ],
+        "archivos_salida": [],
+        "metadatos": {
+          "n_respuestas_tipos": 3,
+          "temas_detectados": 2
+        }
+      },
+      {
+        "etapa": "F6: Knowledge Graph",
+        "descripcion": "Enriquecimiento del grafo con enlaces a Wikidata mediante owl:sameAs y skos:exactMatch (AC-7).",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\actividades\\ac7_enriquecedor_kg.py"
+        ],
+        "archivos_salida": [],
+        "metadatos": {
+          "n_triples": 59,
+          "n_enlaces_externos": 3,
+          "entidades_enlazadas": "tecnologia, economia, ciencia"
+        }
+      },
+      {
+        "etapa": "F7: Reporte y Validación",
+        "descripcion": "Informe de calidad del corpus con validación de registros inválidos y duplicados (AC-8). Estudio de usabilidad con 3 usuarios (AC-11). Manifiesto de trazabilidad (AC-12).",
+        "timestamp": "2026-05-31 19:48:26",
+        "archivos_entrada": [],
+        "archivos_salida": [
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\informe_calidad_corpus.json",
+          "E:\\Mi_Usuario\\Documents\\Recuperacion_Proyecto\\SIMANW\\actividades\\manifiesto_ejecucion.json"
+        ],
+        "metadatos": {
+          "n_aceptados": 212,
+          "n_rechazados": 3,
+          "usuarios_estudio": 3
+        }
+      }
+    ],
+    "total_etapas": 9
+  }
+}

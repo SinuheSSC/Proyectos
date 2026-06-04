@@ -1,0 +1,46 @@
+{
+  "fuente": "",
+  "fecha_analisis": "2026-05-31 20:50:33",
+  "resumen": {
+    "total_registros": 210,
+    "registros_aceptados": 210,
+    "registros_rechazados": 0,
+    "duplicados_exactos": 0,
+    "duplicados_cercanos": 0,
+    "tasa_aceptacion": 100.0
+  },
+  "reglas_aplicadas": {
+    "campos_obligatorios": [
+      "titulo",
+      "url",
+      "fuente"
+    ],
+    "titulo_min_length": 5,
+    "titulo_max_length": 300,
+    "cuerpo_min_length": 0,
+    "url_debe_ser_absoluta": true,
+    "url_pattern": "^https?://.+",
+    "max_duplicados_cercanos": 0.85
+  },
+  "registros_rechazados": [],
+  "duplicados_exactos": [],
+  "duplicados_cercanos": [],
+  "estadisticas_campos": {
+    "fuente": {
+      "completos": 210,
+      "cobertura_pct": 100.0
+    },
+    "resumen": {
+      "completos": 210,
+      "cobertura_pct": 100.0
+    },
+    "titulo": {
+      "completos": 210,
+      "cobertura_pct": 100.0
+    },
+    "url": {
+      "completos": 210,
+      "cobertura_pct": 100.0
+    }
+  }
+}

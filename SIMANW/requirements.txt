@@ -1,0 +1,10 @@
+nltk
+scikit-learn
+numpy
+pandas
+requests
+rdflib
+SPARQLWrapper
+transformers
+matplotlib
+feedparser

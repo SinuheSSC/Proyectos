@@ -1,0 +1,59 @@
+{
+  "consultas": {
+    "IA y ML": {
+      "terminos": "inteligencia artificial machine learning deep",
+      "fecha_creacion": "2026-05-31 19:46:27",
+      "ultima_activacion": "2026-05-31 19:46:27"
+    },
+    "Mercados": {
+      "terminos": "mercado bolsa acciones inversión",
+      "fecha_creacion": "2026-05-31 19:46:27",
+      "ultima_activacion": null
+    },
+    "Ciencia": {
+      "terminos": "científico investigación descubrimiento",
+      "fecha_creacion": "2026-05-31 19:46:27",
+      "ultima_activacion": "2026-05-31 19:46:27"
+    },
+    "Política regulatoria": {
+      "terminos": "gobierno ley reforma senado",
+      "fecha_creacion": "2026-05-31 19:46:27",
+      "ultima_activacion": "2026-05-31 19:46:27"
+    },
+    "Salud": {
+      "terminos": "terapia genética médico enfermedad",
+      "fecha_creacion": "2026-05-31 19:46:27",
+      "ultima_activacion": "2026-05-31 19:46:27"
+    }
+  },
+  "historial": [
+    {
+      "consulta": "IA y ML",
+      "terminos": "inteligencia artificial machine learning deep",
+      "titulo": "Nueva inteligencia artificial generativa revoluciona el mercado",
+      "url": "https://ejemplo.com/ia-gen",
+      "timestamp": "2026-05-31 19:46:27"
+    },
+    {
+      "consulta": "Salud",
+      "terminos": "terapia genética médico enfermedad",
+      "titulo": "Investigación científica descubre nueva terapia genética",
+      "url": "https://ejemplo.com/genetica",
+      "timestamp": "2026-05-31 19:46:27"
+    },
+    {
+      "consulta": "Política regulatoria",
+      "terminos": "gobierno ley reforma senado",
+      "titulo": "Gobierno anuncia reforma fiscal y nueva ley de mercado",
+      "url": "https://ejemplo.com/reforma",
+      "timestamp": "2026-05-31 19:46:27"
+    },
+    {
+      "consulta": "Ciencia",
+      "terminos": "científico investigación descubrimiento",
+      "titulo": "Científicos hacen descubrimiento: nuevo planeta en nuestra galaxia",
+      "url": "https://ejemplo.com/exoplaneta",
+      "timestamp": "2026-05-31 19:46:27"
+    }
+  ]
+}
